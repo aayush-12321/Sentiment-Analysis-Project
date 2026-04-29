@@ -20,3 +20,7 @@ __pycache__/
 
 # OS files
 .DS_Store
+df_medium
+df_small
+df_large
+models/
